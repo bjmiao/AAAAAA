@@ -216,9 +216,6 @@ public:
         // the matrix is not destroied so that it can be used later.
     }
 
-    void floydPathPrint(int beg, int end) {
-        if ()
-    }
 };
 
 template<class vertex, class edge>
